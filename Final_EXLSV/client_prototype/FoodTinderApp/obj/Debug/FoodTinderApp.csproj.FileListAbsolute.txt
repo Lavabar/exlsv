@@ -1,0 +1,16 @@
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Debug\FoodTinderApp.exe.config
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Debug\FoodTinderApp.exe
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Debug\FoodTinderApp.pdb
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.csprojResolveAssemblyReference.cache
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.StartPage.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.Properties.Resources.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.csproj.GenerateResource.cache
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.csproj.CoreCompileInputs.cache
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.exe
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.pdb
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.FoodTinder_p2.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.FoodTinder_p3.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.FoodTinder_p4.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Debug\MySql.Data.dll
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Debug\MySql.Data.xml
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Debug\FoodTinderApp.csproj.CopyComplete

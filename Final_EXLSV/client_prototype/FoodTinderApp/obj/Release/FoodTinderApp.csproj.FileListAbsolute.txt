@@ -1,0 +1,16 @@
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Release\FoodTinderApp.exe.config
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Release\FoodTinderApp.exe
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Release\FoodTinderApp.pdb
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Release\MySql.Data.dll
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\bin\Release\MySql.Data.xml
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.csprojResolveAssemblyReference.cache
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.StartPage.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.FoodTinder_p2.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.FoodTinder_p3.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.FoodTinder_p4.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.Properties.Resources.resources
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.csproj.GenerateResource.cache
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.csproj.CoreCompileInputs.cache
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.csproj.CopyComplete
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.exe
+C:\Users\Flickone\source\repos\FoodTinderApp\FoodTinderApp\obj\Release\FoodTinderApp.pdb

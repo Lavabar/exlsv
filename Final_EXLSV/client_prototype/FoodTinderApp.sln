@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodTinderApp", "FoodTinderApp\FoodTinderApp.csproj", "{0F4DD784-389B-4D51-9B47-F2B29266599E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4DD784-389B-4D51-9B47-F2B29266599E}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4DD784-389B-4D51-9B47-F2B29266599E}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0F4DD784-389B-4D51-9B47-F2B29266599E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4DD784-389B-4D51-9B47-F2B29266599E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28AC5FD6-C0B4-43CA-83DB-A65B7C32228B}
+	EndGlobalSection
+EndGlobal
